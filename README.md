@@ -16,7 +16,7 @@ Before running the tool, make sure you have the following dependencies installed
 
 ```bash
 pip install psutil requests
-
+```
 ## Setup
 
 1.  **Clone the repository or download the Python script:**
