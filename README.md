@@ -51,10 +51,6 @@ The script will print the findings in the console, including:
   * **Automatic logging:** Future versions will log results to a file for auditing.
   * **GUI Interface:** Consider adding a graphical interface for easier use by non-technical users.
 
-## License
-
-This tool is open source and distributed under the [MIT License](https://www.google.com/search?q=LICENSE).
-
 ## Contribution
 
 Feel free to fork the repository, create pull requests, or report issues if you find bugs or have ideas for improvements!
